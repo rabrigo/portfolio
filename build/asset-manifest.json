@@ -1,17 +1,20 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.e15296ad.css",
-    "main.js": "/react-portfolio/static/js/main.e06526bf.js",
-    "static/media/ponder.png": "/react-portfolio/static/media/ponder.ee05d921c4343b4ff6ad.png",
-    "static/media/furiendr.png": "/react-portfolio/static/media/furiendr.ae88b4fa2e0208db7517.png",
-    "static/media/resume.png": "/react-portfolio/static/media/resume.94cd71426e498407b107.png",
-    "static/media/linkedin-resume-2.pdf": "/react-portfolio/static/media/linkedin-resume-2.ff5dc0c3df92938e3708.pdf",
-    "index.html": "/react-portfolio/index.html",
-    "main.e15296ad.css.map": "/react-portfolio/static/css/main.e15296ad.css.map",
-    "main.e06526bf.js.map": "/react-portfolio/static/js/main.e06526bf.js.map"
+    "main.css": "/portfolio/static/css/main.fbf0dfac.css",
+    "main.js": "/portfolio/static/js/main.ee3bd2bc.js",
+    "static/media/browser-party.png": "/portfolio/static/media/browser-party.385c766697d268ecd02f.png",
+    "static/media/ponder.png": "/portfolio/static/media/ponder.ee05d921c4343b4ff6ad.png",
+    "static/media/furiendr.png": "/portfolio/static/media/furiendr.ae88b4fa2e0208db7517.png",
+    "static/media/resume.png": "/portfolio/static/media/resume.94cd71426e498407b107.png",
+    "static/media/linkedin-resume-2.pdf": "/portfolio/static/media/linkedin-resume-2.ff5dc0c3df92938e3708.pdf",
+    "static/media/laptop-pixabay.png": "/portfolio/static/media/laptop-pixabay.82151514085cb4a541c5.png",
+    "static/media/linkedin.png": "/portfolio/static/media/linkedin.aeee0203bc35a3419990.png",
+    "index.html": "/portfolio/index.html",
+    "main.fbf0dfac.css.map": "/portfolio/static/css/main.fbf0dfac.css.map",
+    "main.ee3bd2bc.js.map": "/portfolio/static/js/main.ee3bd2bc.js.map"
   },
   "entrypoints": [
-    "static/css/main.e15296ad.css",
-    "static/js/main.e06526bf.js"
+    "static/css/main.fbf0dfac.css",
+    "static/js/main.ee3bd2bc.js"
   ]
 }
