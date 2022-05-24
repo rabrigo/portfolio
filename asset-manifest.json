@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.fbf0dfac.css",
-    "main.js": "/portfolio/static/js/main.191a7a32.js",
+    "main.css": "/portfolio/static/css/main.e02c9c84.css",
+    "main.js": "/portfolio/static/js/main.15e36afa.js",
     "static/media/browser-party.png": "/portfolio/static/media/browser-party.385c766697d268ecd02f.png",
+    "static/media/resume.png": "/portfolio/static/media/resume.7da11278179e48ba0be0.png",
     "static/media/ponder.png": "/portfolio/static/media/ponder.ee05d921c4343b4ff6ad.png",
     "static/media/furiendr.png": "/portfolio/static/media/furiendr.ae88b4fa2e0208db7517.png",
-    "static/media/resume.png": "/portfolio/static/media/resume.94cd71426e498407b107.png",
-    "static/media/linkedin-resume-2.pdf": "/portfolio/static/media/linkedin-resume-2.ff5dc0c3df92938e3708.pdf",
+    "static/media/ronnel-resume.pdf": "/portfolio/static/media/ronnel-resume.5345872d5718d4801c2b.pdf",
     "static/media/laptop-pixabay.png": "/portfolio/static/media/laptop-pixabay.82151514085cb4a541c5.png",
     "static/media/linkedin.png": "/portfolio/static/media/linkedin.aeee0203bc35a3419990.png",
     "index.html": "/portfolio/index.html",
-    "main.fbf0dfac.css.map": "/portfolio/static/css/main.fbf0dfac.css.map",
-    "main.191a7a32.js.map": "/portfolio/static/js/main.191a7a32.js.map"
+    "main.e02c9c84.css.map": "/portfolio/static/css/main.e02c9c84.css.map",
+    "main.15e36afa.js.map": "/portfolio/static/js/main.15e36afa.js.map"
   },
   "entrypoints": [
-    "static/css/main.fbf0dfac.css",
-    "static/js/main.191a7a32.js"
+    "static/css/main.e02c9c84.css",
+    "static/js/main.15e36afa.js"
   ]
 }
