@@ -4,7 +4,7 @@ import Laptop from '../graphics/laptop-pixabay.png';
 export default function About() {
     return (
         <div>
-            <div className="laptop">
+            <div>
                 <img className="laptop-pic" src={Laptop}/>
             </div>
             <p className="about-text"> 
