@@ -7,11 +7,13 @@ body {
 /* old color: #2EC4B6; */
 a {
   color: #33403E;
+}
+.header a {
   text-decoration: none;
   filter: drop-shadow(2px 3px 0 #8b9e9f);
 }
 
-a:hover {
+.header a:hover {
   color: #a1421f;
 }
 
