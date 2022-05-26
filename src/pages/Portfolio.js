@@ -19,7 +19,7 @@ export default function Portfolio() {
                 This is an online application that allows users to create or join lobbies, chat with other players, and compete against them in up to 3 mini games. My work for this project consisted of styling the interface and making it mobile responsive, connecting React components, and confirming that backend information was rendering on the client side.
                 <br></br>
                 <br></br> 
-                Languages and tools: React.js, Socket.IO, Adobe Photoshop
+                Languages and tools: React.js, Socket.IO, Adobe Photoshop, Node.js, Javascript, HTML5, CSS
             </p>           
         </li>
             <li>
@@ -34,7 +34,7 @@ export default function Portfolio() {
                     Ponder is a social media platform that allows users to post anonymously, upvote, downvote, and respond to posts. I worked with Handlebars to create templates to refactor our workflow. Using JavaScript, I connected modular routes to front end components and created the upvote/downvote limit.
                     <br></br> 
                     <br></br> 
-                    Languages and tools: Node, Handlebars, Bootstrap, MongoDB
+                    Languages and tools: Node.js, Handlebars, Bootstrap, MongoDB, Javascript, HTML5, CSS
                 </p>
             </li>
             <li>
@@ -49,7 +49,7 @@ export default function Portfolio() {
                     This is a rescue pet adoption website using RescueGroup.org's API to search locally for pets. I studied API documentation to apply filters to fetch requests to allow attributes for searches. Using jQuery, I was able to obtain input values and pass them into backend requests. 
                     <br></br> 
                     <br></br> 
-                    Languages and tools: HTML5, CSS, Javascript, jQuery, MaterializeUI
+                    Languages and tools: MaterializeUI, jQuery, Javascript, HTML5, CSS
                 </p>
             </li>
         </ul>
