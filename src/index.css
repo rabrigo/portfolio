@@ -1,4 +1,5 @@
 body {
+  --hover-color: #b9461c;
   font-family: 'BIZ UDPGothic', sans-serif;
   background-color: #F2F2F2;
   margin: 0;
@@ -13,13 +14,13 @@ a {
   filter: drop-shadow(2px 3px 0 #8b9e9f);
 }
 
-.header a:hover {
-  color: #a1421f;
+.header a:hover, a:hover {
+  color: var(--hover-color);
 }
 
 /* old color: #ff3448; */
 .active {
-  color:  #a1421f;
+  color:  var(--hover-color);
 }
 
 .active::after {
@@ -28,7 +29,7 @@ a {
   width: 100%;
   height: 4px;
   display: block;
-  background-color: #a1421f;
+  background-color: var(--hover-color);
   top: 3px;
   left: -0.5%;
 }
@@ -41,6 +42,20 @@ a {
   margin: 50px auto;
   border-radius: 30px;
   filter: drop-shadow(10px 10px 1px #e2e6e7);
+}
+
+.about, .portfolio, .contact-info, .resume {
+  animation-duration: 0.8s;
+  animation-name: fade-in;
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }
 
 .header {
@@ -87,6 +102,7 @@ a {
 }
 
 .contact-info {
+  max-width: 100%;
   margin-top: 60px;
   text-align: center;
   font-weight: 600;
