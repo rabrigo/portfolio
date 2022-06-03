@@ -15,13 +15,13 @@ https://rabrigo.github.io/portfolio/
 </details>
 
 ## Description
-This is a portfolio that showcases my group projects from my coding boot camp. There are currently four pages total. The interface is also mobile responsive.
+This is a portfolio that showcases my group projects from my coding boot camp. There are currently four pages total. The interface is also mobile responsive. I chose the color scheme from the vector art I found on pixabay (Adobe Colors). 
 
 ## Built With
 HTML, CSS, ReactJS, and React Router. 
 
 ## Installation
-If you wish to install a copy locally, copy the SSH link from the project page, and in your CLI run `git clone ` with the SSH right after.
+If you wish to install a copy locally, copy the SSH URL from the project page, and in your CLI run `git clone ` with the SSH URL pasted right after. Run `npm install` to install the node modules. Open your CLI onto the root directory and execute `npm run start`.
 
 ## Acknowledgements
 The graphic on the 'About' page is from pixabay user ptra.
