@@ -3,7 +3,7 @@ import Furiendr from '../screenshots/furiendr.png'
 import Ponder from '../screenshots/ponder.png'
 import BrowserParty from '../screenshots/browser-party.png'
 
-export default function Portfolio() {
+export default function Projects() {
     return (
     <>
         <ul className="portfolio">
