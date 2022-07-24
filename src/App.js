@@ -19,7 +19,7 @@ function App() {
         </ul>
         <div className="main-content">
           <Routes>
-            {/* <Route path="/about" element={<Home />} /> */}
+            <Route path="/portfolio" element={<About />} />
             <Route path="/about" element={<About />} />
             <Route path="/projects" element={<Projects />} />
             <Route path="/contact" element={<Contact />} />
