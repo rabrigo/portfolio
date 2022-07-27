@@ -1,7 +1,7 @@
 import React from 'react'
-import Furiendr from '../screenshots/furiendr.png'
-import Ponder from '../screenshots/ponder.png'
-import BrowserParty from '../screenshots/browser-party.png'
+import Furiendr from '../screenshots/furiendr.jpg'
+import Ponder from '../screenshots/ponder.jpg'
+import BrowserParty from '../screenshots/browser-party.jpg'
 
 export default function Projects() {
     return (
