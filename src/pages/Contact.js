@@ -3,6 +3,7 @@ import React from 'react'
 export default function Contact() {
     return (
         <div className="contact-info">
+            {/* https://w3collective.com/react-contact-form/ */}
             <a href="mailto:ronnelabrigo@gmail.com">E-mail: ronnelabrigo@gmail.com</a>
             <br></br>
             <br></br>
