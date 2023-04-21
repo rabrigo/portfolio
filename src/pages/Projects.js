@@ -14,7 +14,7 @@ export default function Projects() {
             </a>
             <p>
                 <a href="https://github.com/kingnolds/Browser-Party">https://github.com/kingnolds/Browser-Party</a> <br></br>
-                <a href="https://browser-party.herokuapp.com">https://browser-party.herokuapp.com</a> <br></br>
+                <a href="https://browserparty.netlify.app/">https://browserparty.netlify.app/</a> <br></br>
                 <br></br>
                 This is an online application that allows users to create or join lobbies, chat with other players, and compete against them in up to 3 mini games. My work for this project consisted of styling the interface and making it mobile responsive, connecting React components, and confirming that backend information was rendering on the client side.
                 <br></br>
